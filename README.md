@@ -1,1 +1,1 @@
-# PRODIGY_CS_01
+Implemented the Caesar Cipher encryption and decryption algorithms in Python. This program takes a plaintext message and a shift value as input for encryption, then encrypts the message by shifting each letter in the alphabet by the specified amount. For decryption, it takes the ciphertext and the same shift value to reverse the process, restoring the original plaintext message.
